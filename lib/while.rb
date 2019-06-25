@@ -6,6 +6,7 @@ def using_while
 #    puts "...almost have enough force to levitate!"
     print "Wingardium Leviosa"
     levitation_force += 1
+    levitation_force
 
   end
 end
